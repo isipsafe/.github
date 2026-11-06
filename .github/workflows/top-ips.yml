@@ -1,0 +1,36 @@
+name: Update top 10 malicious IPs
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: top-ips
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Fetch the top 10 and update the profile
+        env:
+          ISIPSAFE_API_KEY: ${{ secrets.ISIPSAFE_API_KEY }}
+        run: python scripts/update_top_ips.py profile/README.md
+      - name: Commit the change
+        run: |
+          if git diff --quiet; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update top 10 malicious IPs"
+          git push
