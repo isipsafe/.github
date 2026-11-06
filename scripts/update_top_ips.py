@@ -39,7 +39,8 @@ def render(rows: list[dict], today: datetime.date, days: int) -> str:
     ]
     for i, r in enumerate(rows, 1):
         ip = r["ip"]
-        cats = ", ".join(c for c in r.get("categories", "").split(",") if c) or "-"
+        cat_list = [c for c in r.get("categories", "").split(",") if c]
+        cats = ", ".join(cat_list[:3]) or "-"
         last = (r.get("last_reported") or "")[:10] or "-"
         out.append(
             f"| {i} | [`{ip}`]({SITE}/ip/{ip}) | {r.get('confidence', '-')}% | {r.get('reports', '-')} "

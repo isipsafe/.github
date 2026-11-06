@@ -55,16 +55,16 @@ _Updated every Monday. Last update: 2026-11-06. The 10 addresses with the highes
 
 | # | IP address | Confidence | Reports | Country | Last reported | Categories |
 |---|---|---|---|---|---|---|
-| 1 | [`14.34.249.175`](https://isipsafe.com/ip/14.34.249.175) | 94% | 82 | KR | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, sql-injection, brute-force, bad-bot, exploited-host, web-app-attack, ssh, credential-stuffing, vuln-scan, malware-hosting, c2, api-abuse, database-attack, http-flood, fake-accounts, telnet |
-| 2 | [`77.90.185.20`](https://isipsafe.com/ip/77.90.185.20) | 91% | 63 | DE | 2026-11-06 | dns-poisoning, web-spam, port-scan, hacking, sql-injection, brute-force, bad-bot, exploited-host, web-app-attack, ssh, credential-stuffing, vuln-scan, malware-hosting, c2, api-abuse, database-attack, http-flood, fake-accounts, telnet |
-| 3 | [`196.189.236.67`](https://isipsafe.com/ip/196.189.236.67) | 90% | 77 | ET | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, sql-injection, brute-force, bad-bot, exploited-host, web-app-attack, ssh, credential-stuffing, vuln-scan, malware-hosting, c2, api-abuse, database-attack, http-flood, fake-accounts, telnet |
-| 4 | [`152.32.236.102`](https://isipsafe.com/ip/152.32.236.102) | 90% | 74 | US | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, sql-injection, brute-force, bad-bot, exploited-host, web-app-attack, ssh, rce, credential-stuffing, vuln-scan, malware-hosting, c2, api-abuse, database-attack, http-flood, fake-accounts, telnet |
-| 5 | [`2.57.122.238`](https://isipsafe.com/ip/2.57.122.238) | 90% | 80 | NL | 2026-11-06 | web-spam, port-scan, hacking, brute-force, bad-bot, exploited-host, web-app-attack, ssh, credential-stuffing, vuln-scan, malware-hosting, c2, database-attack, http-flood |
-| 6 | [`177.10.160.46`](https://isipsafe.com/ip/177.10.160.46) | 89% | 59 | BR | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, sql-injection, brute-force, bad-bot, exploited-host, web-app-attack, ssh, rce, vuln-scan, malware-hosting, c2, api-abuse, http-flood, fake-accounts, telnet |
-| 7 | [`190.171.189.85`](https://isipsafe.com/ip/190.171.189.85) | 89% | 69 | CL | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, sql-injection, brute-force, bad-bot, exploited-host, web-app-attack, ssh, credential-stuffing, vuln-scan, malware-hosting, c2, api-abuse, database-attack, http-flood, fake-accounts, telnet |
-| 8 | [`31.57.34.150`](https://isipsafe.com/ip/31.57.34.150) | 88% | 62 | NL | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, sql-injection, brute-force, bad-bot, exploited-host, web-app-attack, ssh, rce, vuln-scan, malware-hosting, c2, api-abuse, http-flood, fake-accounts, telnet |
-| 9 | [`179.43.153.10`](https://isipsafe.com/ip/179.43.153.10) | 88% | 61 | CH | 2026-11-06 | ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, brute-force, bad-bot, exploited-host, web-app-attack, ssh, credential-stuffing, vuln-scan, malware-hosting, c2, database-attack, http-flood |
-| 10 | [`35.210.196.164`](https://isipsafe.com/ip/35.210.196.164) | 87% | 25 | BE | 2026-11-06 | ftp-brute-force, phishing, open-proxy, web-spam, port-scan, hacking, brute-force, bad-bot, exploited-host, web-app-attack, ssh, vuln-scan, c2, http-flood |
+| 1 | [`14.34.249.175`](https://isipsafe.com/ip/14.34.249.175) | 94% | 82 | KR | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing |
+| 2 | [`77.90.185.20`](https://isipsafe.com/ip/77.90.185.20) | 91% | 63 | DE | 2026-11-06 | dns-poisoning, web-spam, port-scan |
+| 3 | [`196.189.236.67`](https://isipsafe.com/ip/196.189.236.67) | 90% | 77 | ET | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing |
+| 4 | [`152.32.236.102`](https://isipsafe.com/ip/152.32.236.102) | 90% | 74 | US | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing |
+| 5 | [`2.57.122.238`](https://isipsafe.com/ip/2.57.122.238) | 90% | 80 | NL | 2026-11-06 | web-spam, port-scan, hacking |
+| 6 | [`177.10.160.46`](https://isipsafe.com/ip/177.10.160.46) | 89% | 59 | BR | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing |
+| 7 | [`190.171.189.85`](https://isipsafe.com/ip/190.171.189.85) | 89% | 69 | CL | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing |
+| 8 | [`31.57.34.150`](https://isipsafe.com/ip/31.57.34.150) | 88% | 62 | NL | 2026-11-06 | dns-poisoning, ftp-brute-force, phishing |
+| 9 | [`179.43.153.10`](https://isipsafe.com/ip/179.43.153.10) | 88% | 61 | CH | 2026-11-06 | ftp-brute-force, phishing, open-proxy |
+| 10 | [`35.210.196.164`](https://isipsafe.com/ip/35.210.196.164) | 87% | 25 | BE | 2026-11-06 | ftp-brute-force, phishing, open-proxy |
 
 Full list and live lookups: [isipsafe.com](https://isipsafe.com)
 <!-- top-ips:end -->
