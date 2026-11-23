@@ -51,20 +51,20 @@ Everything below is open source. Pick the one that fits where you already work.
 ## Top 10 malicious IPs this week
 
 <!-- top-ips:start -->
-_Updated every Monday. Last update: 2026-11-16. The 10 addresses with the highest confidence score reported in the last 7 days._
+_Updated every Monday. Last update: 2026-11-23. The 10 addresses with the highest confidence score reported in the last 7 days._
 
 | # | IP address | Confidence | Reports | Country | Last reported | Categories |
 |---|---|---|---|---|---|---|
-| 1 | [`152.32.236.102`](https://isipsafe.com/ip/152.32.236.102) | 97% | 202 | US | 2026-11-16 | dns-poisoning, ftp-brute-force, phishing |
-| 2 | [`45.148.10.157`](https://isipsafe.com/ip/45.148.10.157) | 97% | 390 | AD | 2026-11-16 | dns-poisoning, web-spam, email-spam |
-| 3 | [`45.148.10.141`](https://isipsafe.com/ip/45.148.10.141) | 97% | 385 | AD | 2026-11-16 | dns-poisoning, web-spam, email-spam |
-| 4 | [`193.32.162.84`](https://isipsafe.com/ip/193.32.162.84) | 97% | 169 | NL | 2026-11-16 | web-spam, email-spam, port-scan |
-| 5 | [`196.189.236.67`](https://isipsafe.com/ip/196.189.236.67) | 97% | 197 | ET | 2026-11-16 | dns-poisoning, ftp-brute-force, phishing |
-| 6 | [`77.239.124.252`](https://isipsafe.com/ip/77.239.124.252) | 97% | 50 | FR | 2026-11-16 | dns-poisoning, ftp-brute-force, phishing |
-| 7 | [`2.57.122.150`](https://isipsafe.com/ip/2.57.122.150) | 97% | 205 | NL | 2026-11-16 | voip-fraud, web-spam, email-spam |
-| 8 | [`92.118.39.71`](https://isipsafe.com/ip/92.118.39.71) | 96% | 184 | NL | 2026-11-16 | web-spam, email-spam, port-scan |
-| 9 | [`92.118.39.14`](https://isipsafe.com/ip/92.118.39.14) | 96% | 166 | NL | 2026-11-16 | web-spam, email-spam, port-scan |
-| 10 | [`45.148.10.152`](https://isipsafe.com/ip/45.148.10.152) | 96% | 376 | AD | 2026-11-16 | dns-poisoning, web-spam, email-spam |
+| 1 | [`152.32.236.102`](https://isipsafe.com/ip/152.32.236.102) | 97% | 295 | US | 2026-11-23 | dns-poisoning, ftp-brute-force, phishing |
+| 2 | [`58.182.58.128`](https://isipsafe.com/ip/58.182.58.128) | 97% | 273 | SG | 2026-11-23 | dns-poisoning, ftp-brute-force, phishing |
+| 3 | [`77.239.124.252`](https://isipsafe.com/ip/77.239.124.252) | 97% | 139 | FR | 2026-11-23 | dns-poisoning, ftp-brute-force, phishing |
+| 4 | [`195.178.110.227`](https://isipsafe.com/ip/195.178.110.227) | 96% | 275 | AD | 2026-11-23 | web-spam, email-spam, port-scan |
+| 5 | [`2.57.122.209`](https://isipsafe.com/ip/2.57.122.209) | 96% | 264 | NL | 2026-11-23 | web-spam, email-spam, port-scan |
+| 6 | [`196.189.236.67`](https://isipsafe.com/ip/196.189.236.67) | 96% | 272 | ET | 2026-11-23 | dns-poisoning, ftp-brute-force, phishing |
+| 7 | [`107.150.123.48`](https://isipsafe.com/ip/107.150.123.48) | 96% | 257 | HK | 2026-11-23 | dns-poisoning, ftp-brute-force, phishing |
+| 8 | [`94.204.5.49`](https://isipsafe.com/ip/94.204.5.49) | 96% | 197 | AE | 2026-11-23 | dns-poisoning, web-spam, port-scan |
+| 9 | [`92.118.39.14`](https://isipsafe.com/ip/92.118.39.14) | 96% | 253 | NL | 2026-11-23 | web-spam, email-spam, port-scan |
+| 10 | [`2.57.122.150`](https://isipsafe.com/ip/2.57.122.150) | 96% | 306 | NL | 2026-11-23 | voip-fraud, web-spam, email-spam |
 
 Full list and live lookups: [isipsafe.com](https://isipsafe.com)
 <!-- top-ips:end -->
